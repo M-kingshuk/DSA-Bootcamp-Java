@@ -6,6 +6,6 @@
 - [Assignments](https://github.com/kunal-kushwaha/DSA-Bootcamp-Java/tree/main/assignments) (solutions can be found on LeetCode)
 - [Connect with me](http://kunalkushwaha.com)
 - [Competitive Programming Resources](https://github.com/kunal-kushwaha/Competitive-Programming-Resources)
-- [Competitive Programming Questions](https://github.com/kunal-kushwaha/CPP-Questions/tree/master/src/com/kunal)
+- [Competitive Programming Questions](https://github.com/kunal-kushwaha/ACM-ICPC-Algorithms/tree/master)
 - [Kunal's CP Notes](https://github.com/kunal-kushwaha/competitiveprogramming/tree/master)
 - [DSA Roadmap(GFG)](https://www.geeksforgeeks.org/complete-roadmap-to-learn-dsa-from-scratch/)
